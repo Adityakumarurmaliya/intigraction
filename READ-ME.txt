@@ -1,0 +1,11 @@
+  =>  Template Name    : Ioready
+
+  =>  Template Link    : #/startup-website-template
+
+  =>  Template License : #/license (or read the LICENSE.txt file)
+
+  =>  Template Author  : Ioready - DevOps
+
+  =>  Author Website   : #
+
+  =>  About Ioready - DevOps : Ioready - DevOps is one of the top creators and publishers of , HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( #/about-us )
